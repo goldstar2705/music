@@ -1,9 +1,9 @@
 
 <?php
 ob_start();
-define('API_KEY','907556966:AAF6ViIqAH7sDFIKjfFKaZ7jyyW7W57oxmQ');
+define('API_KEY','1075799831:AAHlCPAmI_5sWblLf2BF10bT86OITDgKwl0');
 //tokenni yozing
-$admin = "you id";
+$admin = "669114984";
 function fsize($size,$round=2)
 {
 $sizes=array(' Bytes',' Kb',' Mb',' Gb',' Tb');
