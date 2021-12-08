@@ -1,5 +1,5 @@
 <?php
-$token = "TOKEN";
+$token = "1133972283:AAG5Av20Hp3ScFQI6Vmp5iDe361aCq4HpNo";
 define('API_KEY',$token); 
 $admin = "ADMIN"; //admin id
 
